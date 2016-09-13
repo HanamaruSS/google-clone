@@ -1,8 +1,16 @@
-.addition {
-	font-size: 10px;
+button {
+	font-size: 25px;
+	align-items: center;
+	align-content: center;
 }
 
-#title {
-	font-size: 50px;
-	text-align: center;
+form {
+	height: 50px;
+	width: 150px;
+}
+
+#goolge_image {
+	height: 50px;
+	width: 100px;
+	align-content: center;
 }
