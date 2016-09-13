@@ -1,7 +1,9 @@
-button {
-	font-size: 25px;
-	align-items: center;
-	align-content: center;
+.button {
+	height: 50px;
+	width: 120px;
+	float: left;
+	padding: 10px;
+	text-align: center;
 }
 
 form {
@@ -9,8 +11,9 @@ form {
 	width: 150px;
 }
 
-#goolge_image {
-	height: 50px;
-	width: 100px;
-	align-content: center;
+img#gimage {
+	display: block;
+	margin-top: 200px;
+	margin-left: auto;
+	margin-right: auto;
 }
