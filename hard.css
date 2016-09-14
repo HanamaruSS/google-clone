@@ -13,15 +13,13 @@ button.search {
 }
 
 .sign_in {
-	color: white;
 	text-align: right;
-	font-style: bold;
 	display: inline-block;
 }
 
 button.signin {
 	color: white;
-	font-style:bold;
+	font-style: bold;
 	height: 25px;
 	width: 100px;
 	border-color: transparent;
