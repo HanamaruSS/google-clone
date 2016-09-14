@@ -5,14 +5,17 @@ p {
 	font-family: arial;
 }
 
+a {
+	text-decoration: none;
+	color: black;
+}
+
 .sign_in {
-	text-color: white;
 	text-align: right;
-	font-style: bold;
 }
 
 button.signin {
-	text-color: white;
+	color: white;
 	font-style: bold;
 	height: 25px;
 	width: 100px;
@@ -23,6 +26,7 @@ button.signin {
 
 .btn {
 	text-align: center;
+	display: inline;
 }
 
 button.searchBtn {
@@ -44,7 +48,7 @@ form.omni {
 input.omnibox {
 	height: 25px;
 	width: 500px;
-	border: 1px solid grey;
+	border: 1px solid gray;
 }
 
 img#gimage {
