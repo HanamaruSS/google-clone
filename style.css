@@ -50,8 +50,9 @@ p {
 	margin-right: 30%;
 }
 
-.top {
-	word-spacing: 2em;
+span {
+	display: inline-block;
+	margin: 10px;
 }
 
 .stats {
