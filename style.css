@@ -50,6 +50,15 @@ p {
 	margin-right: 30%;
 }
 
+.top {
+	word-spacing: 2em;
+}
+
+.stats {
+	font-size: 12px;
+	color: grey;
+}
+
 .title {
 	color: blue;
 	font-size: 20px;
