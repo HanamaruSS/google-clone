@@ -1,14 +1,22 @@
-p {
-	word-spacing: 1em;
-	text-align: right;
-	font-size: 12pt;
+.font {
 	font-family: arial;
+}
+
+.srch {
+	display: inline-block;
+}
+
+button.search {
+	height: 25px;
+	width: 100px;
+	padding: 2px;
 }
 
 .sign_in {
 	text-color: white;
 	text-align: right;
 	font-style: bold;
+	display: inline-block;
 }
 
 button.signin {
@@ -21,24 +29,9 @@ button.signin {
 	padding: 2px;
 }
 
-.btn {
-	text-align: center;
-}
-
-button.searchBtn {
-	height: 50px;
-	width: 200px;
-	font-size: 16pt;
-}
-
-button#luckyBtn {
-	height: 50px;
-	width: 200px;
-	font-size: 16pt;
-}
-
 form.omni {
 	text-align: center;
+	display: inline-block;
 }
 
 input.omnibox {
@@ -48,8 +41,24 @@ input.omnibox {
 }
 
 img#gimage {
-	display: block;
-	margin-top: 25%;
-	margin-left: auto;
-	margin-right: auto;
+	display: inline-block;
+	height: 30px;
 }
+
+p {
+	margin-left: 10%;
+	margin-right: 30%;
+}
+
+.title {
+	color: blue;
+	font-size: 20px;
+}
+
+.link {
+	color: green;
+	font-size: 14px;
+}
+
+.content {
+	si
